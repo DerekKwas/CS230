@@ -1,2 +1,2 @@
 # CS230
-Computer Science Operating Platforms (SNHU)
+Operating Platforms (SNHU)
